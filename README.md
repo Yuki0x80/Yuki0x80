@@ -51,7 +51,7 @@
 - 🦀 **Rust**: `thiserror` / `anyhow` を用いたエラーハンドリング、`tokio` 非同期処理  
 - 🧪 **NLP**: `Word2Vec` / `fastText` / `gensim` を用いた分散表現・構文解析  
 - 🛡️ **Security**: リバースエンジニアリング、マルウェア解析、CTF  
-- 🎓 **Certifications**: **CISSP**, 他セキュリティ系資格  
+- 🎓 **Certifications**: **CISSP**
 - ☁️ **Infra**: Docker Compose / AWS（ECS, Lambda, S3, CloudWatch）  
 - 🧠 **Philosophy × Eng**: 設計判断の基盤に哲学的思考を導入  
 
